@@ -5,6 +5,9 @@ public class Ship : MonoBehaviour {
 
   public float speedIncrement = 2.0f; 
   public float angleIncrement = 1.0f;
+
+
+
   public GameObject laserPrefab;
   private Vector3 velocity = Vector3.zero;
 
